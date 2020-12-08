@@ -534,6 +534,11 @@
     padding: 20px 0 10px 0;
   }
 
+  .header__nav-item:hover {
+    background-color: transparent;
+    color: black;
+  }
+
   /*hero responsivo*/
 
   .hero__principal {
